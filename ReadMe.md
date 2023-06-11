@@ -1,6 +1,3 @@
-Hi, This is COMP631 final project 
-
-
 A IMDB like movie search and recommendation engine
 
 Frontend: React, Redux
